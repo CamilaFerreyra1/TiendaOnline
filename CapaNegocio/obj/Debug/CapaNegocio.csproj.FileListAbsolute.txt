@@ -1,0 +1,11 @@
+C:\platzi\TiendaOnline\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\platzi\TiendaOnline\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\platzi\TiendaOnline\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\platzi\TiendaOnline\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\platzi\TiendaOnline\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\platzi\TiendaOnline\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\platzi\TiendaOnline\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\platzi\TiendaOnline\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\platzi\TiendaOnline\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\platzi\TiendaOnline\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\platzi\TiendaOnline\CapaNegocio\obj\Debug\CapaNegocio.pdb
